@@ -17,11 +17,11 @@ Above is the initial approach to this project.
 * On the first go, we will ask job seejers and employers to fill out the google forms.
 * We will thenextract the information in .CSV format and then load it to database.
 * On the next step, we create framework that access the database data.
-  *Framework includes:
-  * connection to the database
-  * loading data.
-  * retrieving data.
-  * mapping job seekers to the appropriate job positions
+  * Framework includes:
+    * connection to the database
+    * loading data.
+    * retrieving data.
+    * mapping job seekers to the appropriate job positions
 * This mapped data will be available on the front end either by sorting based on employer details or with the job positions.
 
 
