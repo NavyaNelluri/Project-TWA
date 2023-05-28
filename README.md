@@ -13,6 +13,9 @@ For this, we need to maintain records of job seekers and employer details.
 <br></br>
 **Initial approach for the project:**
 
+![image](https://github.com/NavyaNelluri/Project-TWA/assets/123142678/bbf27237-df59-4606-81bd-5c7d836caf96)
+
+
 
 
   
