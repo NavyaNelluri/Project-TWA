@@ -1,6 +1,6 @@
 # Project-TWA
 Transformative workforce Academy - This project will help in giving second chance for the people who are having criminal records
-**Functional Requirements:**
+##Functional Requirements:
 1. Job Details:
   Job Details includes Industry, Location, Accessibility, Contact Information, Positions Available, Salary, Benefits, Shifts Available, Offense Exemptions, Notes.
 2. Job Seekers:
