@@ -13,7 +13,7 @@ For this, we need to maintain records of job seekers and employer details.
 ## Initial approach for the project
 
 ![image](https://github.com/NavyaNelluri/Project-TWA/assets/123142678/bbf27237-df59-4606-81bd-5c7d836caf96)
-
+<p>
 Above is the initial approach to this project.
 1. On the first go, we will ask job seejers and employers to fill out the google forms.
 2. We will thenextract the information in .CSV format and then load it to database.
@@ -24,6 +24,6 @@ Above is the initial approach to this project.
   3. retrieving data.
   4. mapping job seekers to the appropriate job positions
 4. This mapped data will be available on the front end either by sorting based on employer details or with the job positions.
-
+</p>
 
   
